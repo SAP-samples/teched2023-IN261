@@ -2,7 +2,7 @@
 
 # IN261 - Gain a Comprehensive View of Event-Driven Architecture
 
-![Pic 1](/./images/IN261-1.png)
+![Pic 1](/./images/IN261-1.jpeg)
 
 ## Description
 
