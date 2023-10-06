@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-IN261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN261)
 
-# IN261 - Session Title
+# IN261 - Gain a Comprehensive View of Event-Driven Architecture
 
 ![Pic 1](/./images/IN261-1.png)
 
@@ -62,21 +62,16 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 A lot of material to get up to speed with SAP Integration Suite, advanced event mesh is available.
 
-- Workzone
-
-    - [Advanced Event Mesh](https://workzone.one.int.sap/site#workzone-home&/groups/fK3n7zJki0V7afcp1JLStP/overview_page/E24IHoZGjAgF5r40Q9gTn7)
-    - [Slide Decks](https://workzone.one.int.sap/site#workzone-home&/groups/fK3n7zJki0V7afcp1JLStP/overview_page/yBQqD2q9ZZWKZ5Ko8GVlCN)
-
-- Videos
-
-    - [Discover Event-driven Integrations](https://www.youtube.com/watch?v=r9lyC_2ss2U)
-    - [SAP on Azure](https://www.youtube.com/watch?v=NNrzXbX3mk0)
-
 - Blogs
 
     - [SAPs Event-Driven Ecosystem](https://blogs.sap.com/2022/09/01/saps-event-driven-ecosystem-revisited/)
     - [Advanced Event Mesh](https://blogs.sap.com/2022/10/28/turn-your-erp-into-a-team-player-introducing-sap-integration-suite-advanced-event-mesh/ )
     - [SAP Event Mesh and Advanced Event Mesh](https://blogs.sap.com/2022/10/03/sap-integration-suite-advanced-event-mesh-vis-a-vis-sap-event-mesh-and-sap-integration-suite./)
+
+- Videos
+
+    - [Discover Event-driven Integrations](https://www.youtube.com/watch?v=r9lyC_2ss2U)
+    - [SAP on Azure](https://www.youtube.com/watch?v=NNrzXbX3mk0)
 
 - Documentation
 
