@@ -16,6 +16,8 @@ See the advantages of a mesh of event brokers over a single event broker.
 
 SAP Integration Suite, advanced event mesh is a fully managed event streaming and management service that enables enterprise-wide and enterprise-grade event-driven architecture. It complements SAP Event Mesh for more demanding scenarios and is a full blown, general purpose Event Mesh. AEM offers enterprise-grade performance, reliability, security and governance. It scales to very large use cases – and very means very very very in this case.
 
+![Pic 1](/./images/IN261-2.png)
+
 This session allows you to get an end-to-end impression of event-driven architecture hands-on. Starting from the event source, you will follow the flow of outbound events via the event broker to the event consumer.
 
 As an event source we will use SAP S/4HANA Cloud and SAP SuccessFactors. SAP Integration Suite, advanced event mesh will be our event broker, and events are consumed by an HTML/JS based event consumer.
@@ -45,15 +47,19 @@ Features touched, some just shortly, some in more detail, include:
 
 ## Exercises
 
+![Pic 1](/./images/IN261-3.png)
+
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+
+ ## User Data and Password 
+
+Your user data and number can be found here.
+
+In order to log into Advanced Event Mesh, you will use the email address. The password for Advanced Event Mesh will be provided by the moderators. 
 
  ## Background Material 
 
