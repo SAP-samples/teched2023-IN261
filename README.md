@@ -52,7 +52,7 @@ API Business Hub (optional)
 
 - [Exercise 1 - Explore SAP S/4HANA Cloud Standard Events in API Business Hub](exercises/ex1/)
 
-    - [Exercise 1.1 - Look up BusinessPartner events in SAP API Business Hub (optional)](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex1)
+    - [Exercise 1.1 - Look up BusinessPartner events in SAP Business Accelerator Hub](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex1)
 
 SAP Integration Suite, advanced event mesh 
     
@@ -80,13 +80,7 @@ SAP Integration Suite, advanced event mesh
  
     - [Exercise 5.1 - Learn about Topic Hierarchies and Wildcards](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex5#exercise-51-learn-about-topic-hierarchies-and-wildcards)
     - [Exercise 5.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex5#exercise-52-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
-   
-SAP Integration Suite, advanced event mesh (optional)       
-   
-- [Exercise 6 - Experience additional Advanced Event Mesh features (Optional)](exercises/ex6/)  
-
-    - [Exercise 6.1 - Explore Insights](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex6#exercise-61-explore-insights)
-    - [Exercise 6.2 - Event Management](https://github.tools.sap/D034841/L2W-AEM-Hands-On/blob/main/exercises/ex6/README.md#exercise-62-event-management) 
+  
 
  ## User Data and Password 
 
