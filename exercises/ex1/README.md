@@ -1,44 +1,40 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud
 
-In this exercise, we will create...
+We will look for and at Business Partner events on the SAP API Business Hub, and will see how to enable these events in SAP S/4HANA Cloud. 
 
-## Exercise 1.1 Sub Exercise 1 Description
+![Pic 1](/./images/ex1-1.png)
 
-After completing these steps you will have created...
+## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+You will see how easy it is to look up available events in the SAP API Business Hub. Overall, SAP API Business Hub provides you with information on standard APIs and events available for selected SAP backends.
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+1. In order to explore available events, go to the SAP Api Business Hub: http://api.sap.com
+2. Now you can take different tracks - we will take the SAP S/4HANA Cloud path. Under *Choose a product to explore*, click on *S/4HANA*
 
+![Pic 2](/./images/ex1-2.png)
 
+3. On the next screen, click on Events
 
-## Exercise 1.2 Sub Exercise 2 Description
+![Pic 3](/./images/ex1-3.png)
 
-After completing these steps you will have...
+4. Now you can just scroll down to the Business Partner Events tile.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+![Pic 4](/./images/ex1-4.png)
 
-```
+5. Click on the tile. This will take you to the Event Overview page.
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+![Pic 4](/./images/ex1-5.png)
 
+6. Click on View Event References
+7. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
+
+![Pic 4](/./images/ex1-6.png)
+
+8. Check out the examples for *Payload* and *Headers*
 
 ## Summary
 
-You've now ...
+You have now explored a SAP S/4HANA Cloud standard notification event in SAP API Business Hub.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+As a next step, continue with [Exercise 2](../ex2/README.md)
 
