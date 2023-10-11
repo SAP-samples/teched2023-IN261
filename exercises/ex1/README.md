@@ -4,9 +4,9 @@ We will look for and at Business Partner events on the SAP API Business Hub, and
 
 ![Pic 1](/./images/ex1-1.png)
 
-## Exercise 1.1 - Look up the BusinessPartner events in SAP API Business Hub
+## Exercise 1.1 - Look up the BusinessPartner events in SAP Business Accelerator Hub.
 
-You will see how easy it is to look up available events in the SAP API Business Hub. Overall, SAP API Business Hub provides you with information on standard APIs and events available for selected SAP backends.
+You will see how easy it is to look up available events in the SAP Business Accelerator Hub. Overall, SAP Business Accelerator Hub provides you with information on standard APIs and events available for selected SAP backends.
 
 1. In order to explore available events, go to the SAP Api Business Hub: http://api.sap.com
 2. Now you can take different tracks - we will take the SAP S/4HANA Cloud path. Under *Choose a product to explore*, click on *S/4HANA*
