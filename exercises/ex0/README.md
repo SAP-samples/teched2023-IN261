@@ -48,7 +48,7 @@ The basic-samples folder contains HTML/JS applications to consume and send event
 
 ## Participant Number
 
-When you run through the exercise steps, you need to ensure that you use your participant number that runs from 001 - 100.
+When you run through the exercise steps, you need to ensure that you use your participant number that runs from 01 - 40.
 
 Ensure you know the right number and use it. You can find the participant number [here](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/user%20numbers)
 
