@@ -1,6 +1,6 @@
 # Exercise 1 - Explore Standard Events in SAP S/4HANA Cloud
 
-We will look for and at Business Partner events on the SAP API Business Hub, and will see how to enable these events in SAP S/4HANA Cloud. 
+We will look for and at Business Partner events on the SAP Business Accelerator Hub, and will see how to enable these events in SAP S/4HANA Cloud. 
 
 ![Pic 1](/./images/ex1-1.png)
 
@@ -8,7 +8,7 @@ We will look for and at Business Partner events on the SAP API Business Hub, and
 
 You will see how easy it is to look up available events in the SAP Business Accelerator Hub. Overall, SAP Business Accelerator Hub provides you with information on standard APIs and events available for selected SAP backends.
 
-1. In order to explore available events, go to the SAP Api Business Hub: http://api.sap.com
+1. In order to explore available events, go to the SAP Business Accelerator Hub: http://api.sap.com
 2. Now you can take different tracks - we will take the SAP S/4HANA Cloud path. Under *Choose a product to explore*, click on *S/4HANA*
 
 ![Pic 2](/./images/ex1-2.png)
@@ -34,7 +34,7 @@ You will see how easy it is to look up available events in the SAP Business Acce
 
 ## Summary
 
-You have now explored a SAP S/4HANA Cloud standard notification event in SAP API Business Hub.
+You have now explored a SAP S/4HANA Cloud standard notification event in SAP Business Accelerator Hub.
 
 As a next step, continue with [Exercise 2](../ex2/README.md)
 
