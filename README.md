@@ -46,7 +46,7 @@ Preparation and Setup
 
 API Business Hub (optional)
 
-- [Exercise 1 - Explore SAP S/4HANA Cloud Standard Events in API Business Hub](exercises/ex1/)
+- [Exercise 1 - Explore SAP S/4HANA Cloud Standard Events in SAP Business Accelerator Hub](exercises/ex1/)
 
     - [Exercise 1.1 - Look up BusinessPartner events in SAP Business Accelerator Hub](https://github.com/SAP-samples/teched2023-IN261/tree/main/exercises/ex1#exercise-11---look-up-the-businesspartner-events-in-sap-business-accelerator-hub)
 
