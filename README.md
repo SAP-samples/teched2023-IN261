@@ -6,8 +6,6 @@
 
 An event-driven architecture is a software architecture using events as the core means for interaction between its software components. This includes capture, communication, processing, and persistence of events.  Event-driven architectures represent an architectural approach and aren’t based on a specific programming language.
 
-Event-driven architectures are a great fit for distributed software environments and enable minimal coupling. A defining element of an event-driven architecture is that event producers don’t know which event consumers listen for an event and, to go beyond this, what the consequences of the event on the consumer side are. Parties interested in receiving events can subscribe to published events at will. This might result in not only a loose coupling but also a highly flexible software architecture that is constantly changing and adjusting.
-
 In this session we will get a broad understanding of EDAs in an SAP context. 
 
 ## Overview
