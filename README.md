@@ -48,34 +48,34 @@ API Business Hub (optional)
 
 - [Exercise 1 - Explore SAP S/4HANA Cloud Standard Events in API Business Hub](exercises/ex1/)
 
-    - [Exercise 1.1 - Look up BusinessPartner events in SAP Business Accelerator Hub](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex1)
+    - [Exercise 1.1 - Look up BusinessPartner events in SAP Business Accelerator Hub](https://github.com/SAP-samples/teched2023-IN261/tree/main/exercises/ex1#exercise-11---look-up-the-businesspartner-events-in-sap-business-accelerator-hub)
 
 SAP Integration Suite, advanced event mesh 
     
 - [Exercise 2 - First Steps in Advanced Event Mesh](exercises/ex2/)
 
-    - [Exercise 2.1 - Log into Advanced Event Mesh and explore it](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex2#exercise-21---log-into-advanced-event-mesh-and-explore-it)
-    - [Exercise 2.2 - Create a queue in Advanced Event Mesh](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex2#exercise-22---create-a-queue-in-advanced-event-mesh)
-    - [Exercise 2.3 - Create a Queue Subscription for S/4HANA Events](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex2#exercise-23---create-a-queue-subscription-for-sap-s4hana-events-in-advanced-event-mesh)
+    - [Exercise 2.1 - Log into Advanced Event Mesh and explore it](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex2/README.md#exercise-21---log-into-advanced-event-mesh-and-explore-it)
+    - [Exercise 2.2 - Create a queue in Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex2/README.md#exercise-22---create-a-queue-in-advanced-event-mesh)
+    - [Exercise 2.3 - Create a Queue Subscription for S/4HANA Events](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex2/README.md#exercise-23---create-a-queue-subscription-for-sap-s4hana-events-in-advanced-event-mesh)
  
 Queue Consumer 
  
 - [Exercise 3 - Consume SAP S/4HANA Event from Advanced Event Mesh Queue](exercises/ex3/)
 
-    - [Exercise 3.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex3#exercise-31-start-your-queue-consumer-application-and-connect-to-advanced-event-mesh)
-    - [Exercise 3.2 - Consume and explore events in Queue Consumer](https://github.tools.sap/D034841/L2W-AEM-Hands-On/blob/main/exercises/ex3/README.md#exercise-32-consume-and-explore-events-in-queue-consumer)
+    - [Exercise 3.1 - Start your Queue Consumer Application and connect to Advanced Event Mesh](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex3/README.md#exercise-31-start-your-queue-consumer-application-and-connect-to-advanced-event-mesh)
+    - [Exercise 3.2 - Consume and explore events in Queue Consumer](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex3/README.md#exercise-32-consume-and-explore-events-in-queue-consumer)
 
 SAP Integration Suite, advanced event mesh 
 
 - [Exercise 4 - Consume SAP S/4HANA Event via Advanced Event Mesh Topic](exercises/ex4/)
  
-    - [Exercise 4.1 - Use TryMe! to consume events from a topic on a second broker](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex4#exercise-41-consume-events-via-a-topic-on-a-second-broker)
-    - [Exercise 4.2 - Produce and Consume events via a topic](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex4#exercise-42-produce-and-consume-events-via-a-topic)
+    - [Exercise 4.1 - Use TryMe! to consume events from a topic on a second broker](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex4/README.md#exercise-41-consume-events-via-a-topic-on-a-second-broker)
+    - [Exercise 4.2 - Produce and Consume events via a topic](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex4/README.md#exercise-42-produce-and-consume-events-via-a-topic)
       
 - [Exercise 5 - Explore Topic Hierarchies and Wildcards](exercises/ex5/)
  
-    - [Exercise 5.1 - Learn about Topic Hierarchies and Wildcards](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex5#exercise-51-learn-about-topic-hierarchies-and-wildcards)
-    - [Exercise 5.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/exercises/ex5#exercise-52-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
+    - [Exercise 5.1 - Learn about Topic Hierarchies and Wildcards](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex5/README.md#exercise-51-learn-about-topic-hierarchies-and-wildcards)
+    - [Exercise 5.2 - Practice Topic Hierarchies and Wildcards using Try Me !](https://github.com/SAP-samples/teched2023-IN261/blob/main/exercises/ex5/README.md#exercise-52-practice-topic-hierarchies-and-wildcards-using-try-me----animal-edition)   
   
 
  ## User Data and Password 
