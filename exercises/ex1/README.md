@@ -25,7 +25,7 @@ You will see how easy it is to look up available events in the SAP Business Acce
 
 ![Pic 4](/./images/ex1-5.png)
 
-6. Click on View Event References
+6. Click on View Event Reference
 7. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
 
 ![Pic 4](/./images/ex1-6.png)
