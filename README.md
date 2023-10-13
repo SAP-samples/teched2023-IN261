@@ -18,9 +18,7 @@ This session allows you to get an end-to-end impression of event-driven architec
 
 As an event source we will use SAP S/4HANA Cloud and SAP S/4HANA. SAP Integration Suite, advanced event mesh will be our event broker, and events are consumed by an HTML/JS based event consumer.
 
-The session will be broad rather than deep, with the goal to provide a highspeed end-to-end experience, with a specific focus on our new event broker SAP Integration Suite, advanced event mesh.
-
-You will be able to experience basic and advanced features of SAP Integration Suite, advanced event mesh.
+The session will be broad rather than deep, with the goal to provide a highspeed end-to-end experience, with a specific focus on SAP Integration Suite, advanced event mesh. You will be able to experience basic and advanced features of it.
 
 During the free flow part towards the end you can use the HTML/JS based event consumer and an HTML/JS based event producer to try out different features of SAP Integration Suite, advanced event mesh.
 
