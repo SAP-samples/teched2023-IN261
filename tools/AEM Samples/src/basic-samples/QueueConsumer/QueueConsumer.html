@@ -54,7 +54,7 @@
         solace.SolclientFactory.setLogLevel(solace.LogLevel.WARN);
 
         // create the consumer, specifying name of the queue
-        subscriber = new QueueConsumer('L2W_000');
+        subscriber = new QueueConsumer('BLR_000');
         // assign buttons to the subscriber functions
         document.getElementById("connect").addEventListener("click", subscriber.connect);
         document.getElementById("disconnect").addEventListener("click", subscriber.disconnect);
