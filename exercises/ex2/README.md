@@ -80,7 +80,7 @@ HINT: If you cannot see the tiles, uncheck the Only show my services box
   
 ![Pic 6](/./images/ex2-6.png)        
   
-6. In the pop up enter the queue name: L2W_*** (replace *** with your number)
+6. In the pop up enter the queue name: BLR_*** (replace *** with your number)
   
 7. Click Create
   
