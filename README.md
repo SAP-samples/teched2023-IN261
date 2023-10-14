@@ -44,7 +44,7 @@ Preparation and Setup
 
 - [Getting Started](exercises/ex0/)
 
-API Business Hub (optional)
+API Business Hub 
 
 - [Exercise 1 - Explore SAP S/4HANA Cloud Standard Events in SAP Business Accelerator Hub](exercises/ex1/)
 
