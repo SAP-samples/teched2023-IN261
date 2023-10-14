@@ -32,7 +32,9 @@ You will see how easy it is to look up available events in the SAP Business Acce
 
 8. Check out the examples for *Payload* and *Headers*
 
-9. If you want to, go back to the main screen by clicking on *SAP Business Accelerator Hub*, click on *SAP S/4HANA Cloud*, click on *Events*
+## Exercise 1.2 - Look up the SalesOrder events in SAP Business Accelerator Hub.
+
+9. Go back to the main screen by clicking on *SAP Business Accelerator Hub*, click on *SAP S/4HANA Cloud*, click on *Events*
 
 10. Now enter *SalesOrder* into the search field and press enter
 
