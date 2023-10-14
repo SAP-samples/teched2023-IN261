@@ -8,7 +8,7 @@ After completing these steps you will have connected your Queue Consumer applica
 
 1. As part of the Getting Started you have downloaded or cloned the basic samples from GitHub. Go to the folder that you have downloaded or cloned to.
 
-2. Go to L2W-AEM-Hands-On-main
+2. Go to the folder teched2023-IN261-main
 
 3. Go to the directory tools/AEM Samples/src/basic-samples/QueueConsumer
 
