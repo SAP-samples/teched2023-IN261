@@ -19,9 +19,9 @@ After completing these steps you will have connected your Queue Consumer applica
 5. Go to the line
 
         // create the consumer, specifying name of the queue
-        subscriber = new QueueConsumer('L2W_000');
+        subscriber = new QueueConsumer('BLR_000');
         
-and replace L2W_000 with the name of your queue in Advanced Event Mesh, which should be L2W_*** where *** is your individual number.
+and replace BLR_000 with the name of your queue in Advanced Event Mesh, which should be BLR_*** where *** is your individual number.
 
 ![Pic 2](/./images/ex3-2.png)
 
