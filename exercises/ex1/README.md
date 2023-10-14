@@ -23,15 +23,31 @@ You will see how easy it is to look up available events in the SAP Business Acce
 
 5. Click on the tile. This will take you to the Event Overview page.
 
-![Pic 4](/./images/ex1-5.png)
+![Pic 5](/./images/ex1-5.png)
 
 6. Click on View Event Reference
 7. Now you can select your operations on the left (Changed, Created) or drill deeper into header and payload. 
 
-![Pic 4](/./images/ex1-6.png)
+![Pic 6](/./images/ex1-6.png)
 
 8. Check out the examples for *Payload* and *Headers*
 
+9. If you want to, go back to the main screen by clicking on *SAP Business Accelerator Hub*, click on *SAP S/4HANA Cloud*, click on *Events*
+
+10. Now enter *SalesOrder* into the search field and press enter
+
+![Pic 7](/./images/ex1-7.png)
+
+11. Select *Sales Order Events*
+
+![Pic 8](/./images/ex1-8.png)
+
+12. Check on the events provided in respect to Sales Order. You see how many different events are there and and what level.
+
+![Pic 9](/./images/ex1-9.png)
+
+13. Check out the payload of the events as well. You can see that the payload is already much bigger in comparison to the Business Partner events. This is a general direction in respect to SAP S/4HANA events.
+    
 ## Summary
 
 You have now explored a SAP S/4HANA Cloud standard notification event in SAP Business Accelerator Hub.
