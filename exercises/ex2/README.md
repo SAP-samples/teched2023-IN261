@@ -8,9 +8,7 @@ Link: https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c
 
 User: handson_***@education.cloud.sap (replace *** with your user number)
 
-Your user number can be looked up here: https://github.tools.sap/D034841/L2W-AEM-Hands-On/tree/main/user%20numbers
-
-Password: to be shared via Teams
+Password: provided by your moderator
   
 2. Explore Advanced Event Mesh  
 
