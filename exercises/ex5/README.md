@@ -101,5 +101,4 @@ To make this easier for you, find the topics below for copy and paste.
 - animals/vertebrates/cold-blooded/reptiles/python
 - animals/vertebrates/cold-blooded/reptiles/alligator
 
-Continue to - [Exercise 6 - Experience addition Advanced Event Mesh features (optional)](../ex6/README.md)
 
