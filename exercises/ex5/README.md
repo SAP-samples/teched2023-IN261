@@ -101,4 +101,8 @@ To make this easier for you, find the topics below for copy and paste.
 - animals/vertebrates/cold-blooded/reptiles/python
 - animals/vertebrates/cold-blooded/reptiles/alligator
 
+## Summary
+
+You've now explored topic hierarchies and wildcards.
+
 Continue to - [Exercise 6 - Wrap Up](../ex6/README.md)
