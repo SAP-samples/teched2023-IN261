@@ -6,7 +6,7 @@ After completing these steps you will have learned about topic hierarchies and w
 
 ## Exercise 5.1 Learn about Topic Hierarchies and Wildcards
 
-Advanced Event Mesh supports a hierarchical topic structure, which mean you can be very descriptive in defining your topic. Use it to describe the contents/intent of your message payload data. No need to use flat, coarse-grained topic labels like other brokers. 
+Advanced Event Mesh supports a dynamic & hierarchical topic structure, which mean you can be very descriptive in defining your topic. Use it to describe the contents/intent of your message payload data. No need to use flat, coarse-grained topic labels like other brokers.
 
 ### Topics
 
@@ -73,7 +73,7 @@ You should receive the message.
 
 ![Pic 8](/./images/ex5-8.png)
 
-6. Now we want to learn about all warm-blooded animals getting born
+6. Now we want to learn about all warm-blooded animals being born
 
 - Go to the Subscriber
 - delete the topics your are listening to
