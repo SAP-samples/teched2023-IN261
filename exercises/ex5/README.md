@@ -33,9 +33,9 @@ Some examples of AEM topic subscriptions, and topics that they match:
 
 ![Pic 2](/./images/ex5-2.png)
 
-## Exercise 5.2 Practice Topic Hierarchies and Wildcards using Try Me ! - Animal Edition
+## Exercise 5.2 Practice Topic Hierarchies and Wildcards using Try Me! - Animal Edition
 
-Now that we have learned about topic hierarchies and have a great tool like Try Me ! at hand. let's play around with topic hierarchies.
+Now that we have learned about topic hierarchies and have a great tool like Try Me! at hand. let's play around with topic hierarchies.
 
 ![Pic 5](/./images/ex5-5.png)
 
@@ -59,7 +59,7 @@ Clean up your Subscribed Topics so that you are not subscribing to any topics an
 
 Now try out different combinations of publishing to a topic and listening to a topic and see which events you receive.
 
-4. Register the consumer to listen to the Zebra topic - we just want to learn about Zebras geting born
+4. Register the consumer to listen to the Zebra topic - we just want to learn about Zebras getting born
 
 For this subscribe the consumer to the topic animals/vertebrates/warm-blooded/mammals/zebra
 
@@ -76,7 +76,7 @@ You should receive the message.
 6. Now we want to learn about all warm-blooded animals being born
 
 - Go to the Subscriber
-- delete the topics your are listening to
+- delete the topics you are listening to
 
 ![Pic 9](/./images/ex5-9.png)
 
