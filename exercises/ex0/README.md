@@ -48,9 +48,17 @@ The basic-samples folder contains HTML/JS applications to consume and send event
 
 ## Participant Number
 
-When you run through the exercise steps, you need to ensure that you use your participant number that runs from 01 - 40.
+When you run through the exercise steps, you need to ensure that you use your participant number that runs from 001 - 040.
 
 Ensure you know the right number and use it. You can find the participant number on your table.
+
+## User and Password
+
+For Login you will use the below user with XXX replaced with your user number:
+
+handson_XXX@education.cloud.sap (e.g. handson_013@education.cloud.sap)
+
+The password will be provided by the moderators.
 
 ## Summary
 
