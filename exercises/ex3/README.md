@@ -73,7 +73,7 @@ After completing these steps you will have consumed events using the Queue Consu
 
 ![Pic 11](/./images/ex3-11.png)
 
-HINT: potentially you will receive several events at the same time. These events had been buffered for you in your queue, that had already been subscribed to events while you were seeting up you client app.
+HINT: potentially you will receive several events at the same time. These events had been buffered for you in your queue, that had already been subscribed to events while you were setting up your client app.
 
 4. Leave your browser window open and your consuming app up and running
 
