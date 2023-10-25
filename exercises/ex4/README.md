@@ -1,19 +1,19 @@
 # Exercise 4 - Consume SAP S/4HANA Event via Advanced Event Mesh Topic
 
-In this exercise, we will consume an event on a second broker via a topic using the Try Me ! tool that comes with Advanced Event Mesh.  
+In this exercise, we will consume an event on a second broker via a topic using the Try Me! tool that comes with Advanced Event Mesh.  
 
 
 ## Exercise 4.1 Consume events via a topic on a second broker
 
 After completing these steps you will have consumed events via a topic from another broker in the Event Mesh. You will use the Try Me! feature of Advanced Event Mesh for this.
 
-To put this into perspective: AEM provides an intelligent distributiuon of events throughout the mesh of Event Brokers. This is what you experience here. The event will be made available whereever there is an interested consumer.
+To put this into perspective: AEM provides an intelligent distribution of events throughout the mesh of Event Brokers. This is what you experience here. The event will be made available where ever there is an interested consumer.
 
 1. Go to the cluster manager and select another broker in the mesh.
 
 ![Pic 1](/./images/ex4-1.png)   
 
-2. Click Try Me !
+2. Click Try Me!
 
 ![Pic 2](/./images/ex4-2.png)   
 
@@ -29,7 +29,7 @@ As said, it should be pre-filled for you so typically you just have to click con
 
 ![Pic 4](/./images/ex4-4.png)  
 
-The icon behing Establish Connection should change from Red to Green.
+The icon behind Establish Connection should change from Red to Green.
 
 6. Fill your topic into Subscribe --> Add Topic
 
@@ -51,7 +51,7 @@ HINT: remember how your queue buffered events for you? This is not the case here
 
 ## Exercise 4.2 Produce and Consume events via a topic 
 
-You might have already noticed that there is not only a Subscriber section in Try Me ! There is a Publisher Section as well. If you want to you can try to publish a few events or messages as well. These events go via the brokers.
+You might have already noticed that there is not only a Subscriber section in Try Me! There is a Publisher Section as well. If you want to you can try to publish a few events or messages as well. These events go via the brokers.
 
 1. Go to the publisher and connect
 
@@ -59,11 +59,11 @@ You might have already noticed that there is not only a Subscriber section in Tr
 
 2. Enter topic_000 (replace 000 with your user id)
 
-Please do not publish to the topics we had used before in order to not spam the other particpants.
+Please do not publish to the topics we had used before in order to not spam the other participants.
 
 ![Pic 8](/./images/ex4-8.png)   
 
-3. Add your topic to the Subscriber topic - add the topic into the Add Topic field anc click Subscribe
+3. Add your topic to the Subscriber topic - add the topic into the Add Topic field and click Subscribe
 
 ![Pic 9](/./images/ex4-9.png)   
 
