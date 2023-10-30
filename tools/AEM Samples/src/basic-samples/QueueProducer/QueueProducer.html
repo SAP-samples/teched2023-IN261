@@ -54,7 +54,7 @@
         solace.SolclientFactory.setLogLevel(solace.LogLevel.WARN);
 
         // create the producer, specifying name of the queue
-        producer = new QueueProducer('L2W_000');
+        producer = new QueueProducer('BLR_000');
         // assign buttons to the producer functions
         document.getElementById("connect").addEventListener("click", producer.connect);
         document.getElementById("disconnect").addEventListener("click", producer.disconnect);
