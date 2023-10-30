@@ -24,13 +24,13 @@ During the free flow part towards the end you can use the HTML/JS based event co
 
 Features touched, some just shortly, some in more detail, include:
 
-- SAP S/4HANA Cloud standard notification events
-- SAP S/4HANA Event-Enablement Add-On Events
+- SAP S/4HANA Cloud standard notification events (Demo + Event Consumption)
+- SAP S/4HANA Event-Enablement Add-On Events (Demo)
 - SAP Business Accelerator Hub
 - SAP Integration Suite, advanced event mesh queues
+- SAP Integration Suite, advanced event mesh topics
 - SAP Integration Suite, advanced event mesh Cluster Manager
 - SAP Integration Suite, advanced event mesh Mesh Manager
-- SAP Integration Suite, advanced event mesh Event Designer and Event Management
 - SAP Integration Suite, advanced event mesh Try Me!
 
 ## Requirements
